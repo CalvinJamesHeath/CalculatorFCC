@@ -1,2 +1,8 @@
-# [Newton walks into strip club](https://calvinjamesheath.github.io/CalculatorFCC/)
-He met a girl ,calculated the tangent to her curve.
+# [Click Here to Try Calculator! :D](https://calvinjamesheath.github.io/CalculatorFCC/)
+Trust your calculator. It’s something to count on.
+
+How do you say goodbye to a calculus teacher? => (Calculator!) {
+if('sad' === true){
+sad.stop();
+beAwesome();
+}
